@@ -95,7 +95,8 @@ void loop() {
 }
 ```
 ## Output:
-<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/01e4549a-abce-4837-895f-c7aa9abce7f1" />
+<img width="1882" height="892" alt="image" src="https://github.com/user-attachments/assets/9bdfa3c1-bfe6-4ffa-9613-3d4ab96bd112" />
+
 
 ## Result:
     The quality of air is measured using Gas Sensor MQ-2 with Arduino UNO Board/ESP-32 using Tinker CAD Verified Successfully.
